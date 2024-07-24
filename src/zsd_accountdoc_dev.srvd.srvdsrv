@@ -1,0 +1,4 @@
+@EndUserText.label: '채권연령분석'
+define service ZSD_ACCOUNTDOC_DEV {
+  expose ZR_ACCOUNTDOC_DEV as Zr_Accountdoc;
+}
